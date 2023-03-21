@@ -1,2 +1,2 @@
 # demo-repo
-Demo for Github intro videos
+This is an introduction to Github lessons online
